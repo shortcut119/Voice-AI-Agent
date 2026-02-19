@@ -49,7 +49,7 @@ Generative agent/
 
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/your-username/agent-nesh.git](https://github.com/ganeshnehru/RAG-Multi-Modal-Generative-AI-Agent.git)
+    git clone [https://github.com/shortcut119/Voice-AI-Agent.git])
     cd RAG-Multi-Modal-Generative-AI-Agent
     ```
 
